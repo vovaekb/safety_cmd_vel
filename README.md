@@ -17,5 +17,5 @@ Dependencies:
 
 
 
-To run node:
-
+Topics:
+- /cmd_vel_mux/input/teleop
